@@ -81,7 +81,7 @@ This will create the container in few seconds, and run automatically the start.s
 
 * Install a DNS Server based in dnsmasq
 * Configure all the DNS Server to resolve automatically internal the MX and the hostname that we define while launch the container.
-* Install a fresh Zimbra Collaboration 8.8.8 within Zimbra Chat and Drive!
+* Install a fresh Zimbra Collaboration 8.8.15 within Zimbra Chat and Drive!
 * Create 2 files to automate the Zimbra Collaboration installation, the keystrokes and the config.defaults.
 * Launch the installation of Zimbra based only in the .install.sh -s
 * Inject the config.defaults file with all the parameters that is autoconfigured with the Hostname, domain, IP, and password that you define before.
